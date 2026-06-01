@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    padding: 0;
+    box-sizing: border-box;
+}
+.segunda-pagina h1{
+    color: blue;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 50px;
+}
+.segunda-pagina p{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
